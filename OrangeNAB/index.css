@@ -107,8 +107,7 @@
 
 
 /*Main Section CSS*/
-.main{
-    background:url(/imgs/pic2.jpg) no-repeat center center fixed;
+.pic2{
     position: absolute;
     height: 100%;
     -webkit-background-size: cover;
